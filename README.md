@@ -1,9 +1,14 @@
 # 📦 E-Inventory — Sistem Manajemen Inventaris Barang
 
-> **UAS Pemrograman Web 2**
-> Nama  : Afdhal Agislam
-> NIM   : 312410445
-> Kelas : I241E
+## 👤 Identitas Mahasiswa
+ 
+| | |
+|---|---|
+| Nama | Afdhal Agislam |
+| NIM | 312410445 |
+| Kelas | I241E |
+| Mata Kuliah | Pemrograman Web 2 |
+ 
 
 ---
 

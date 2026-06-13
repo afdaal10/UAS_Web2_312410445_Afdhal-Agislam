@@ -76,25 +76,26 @@ Endpoint yang diproteksi token (POST, PUT, DELETE) akan mengembalikan response:
 ## 🖥️ Screenshot Antarmuka Aplikasi
 
 ### Halaman Beranda (Public)
-![Halaman Beranda](screenshots/home.png)
+<img src="Screenshot/beranda.png" width="800" alt="Halaman Beranda"/>
+
 
 ### Halaman Login
-![Halaman Login](screenshots/login.png)
+<img src="Screenshot/login.png" width="800" alt="Halaman Login"/>
 
 ### Dashboard Admin
-![Dashboard](screenshots/dashboard.png)
+<img src="Screenshot/dashboard_admin.png" width="800" alt="Dashboard"/>
 
 ### Halaman Barang + Form Modal Tambah/Edit
-![Halaman Barang](screenshots/items.png)
+<img src="Screenshot/barang.png" width="800" alt="Halaman Barang"/>
 
 ### Halaman Kategori
-![Halaman Kategori](screenshots/categories.png)
+<img src="Screenshot/kategori.png" width="800" alt="Halaman Kategori"/>
 
 ### Halaman Supplier
-![Halaman Supplier](screenshots/suppliers.png)
+<img src="Screenshot/supplier.png" width="800" alt="Halaman Supplier"/>
 
 ### Halaman Histori Stok
-![Histori Stok](screenshots/stock-history.png)
+<img src="Screenshot/stok_histori.png" width="800" alt="Histori Stok"/>
 
 ---
 

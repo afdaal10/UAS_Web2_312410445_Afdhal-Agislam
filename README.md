@@ -37,7 +37,7 @@
 
 > **Screenshot skema relasi tabel dari phpMyAdmin Designer:**
 
-![Skema Database](screenshots/db-schema.png)
+![Screenshot edit](Screenshot/skema_database.png)
 
 ### Deskripsi Tabel
 
@@ -61,7 +61,7 @@
 
 > **Screenshot pengujian endpoint POST /api/items tanpa token via Postman:**
 
-![Error 401 Postman](screenshots/postman-401.png)
+![Screenshot edit](Screenshot/eror401.png)
 
 Endpoint yang diproteksi token (POST, PUT, DELETE) akan mengembalikan response:
 ```json

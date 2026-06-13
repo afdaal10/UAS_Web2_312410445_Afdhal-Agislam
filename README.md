@@ -61,7 +61,7 @@
 
 > **Screenshot pengujian endpoint POST /api/items tanpa token via Postman:**
 
-<img src="Screenshot/postman-401.png" width="700" alt="Eror401 Postman"/>
+<img src="Screenshot/postman-401.png" width="700" alt="Eror401"/>
 
 Endpoint yang diproteksi token (POST, PUT, DELETE) akan mengembalikan response:
 ```json

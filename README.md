@@ -76,7 +76,7 @@ Endpoint yang diproteksi token (POST, PUT, DELETE) akan mengembalikan response:
 ## 🖥️ Screenshot Antarmuka Aplikasi
 
 ### Halaman Beranda (Public)
-<img src="Screenshot/beranda.png" width="800" alt="Halaman Beranda"/>
+<img src="Screenshot/dashboard.png" width="800" alt="Halaman Beranda"/>
 
 
 ### Halaman Login

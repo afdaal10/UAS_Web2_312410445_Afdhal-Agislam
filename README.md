@@ -95,7 +95,7 @@ Endpoint yang diproteksi token (POST, PUT, DELETE) akan mengembalikan response:
 <img src="Screenshot/supplier.png" width="800" alt="Halaman Supplier"/>
 
 ### Halaman Histori Stok
-<img src="Screenshot/stok_histori.png" width="800" alt="Histori Stok"/>
+<img src="Screenshot/histori_stok.png" width="800" alt="Histori Stok"/>
 
 ---
 

@@ -37,7 +37,7 @@
 
 > **Screenshot skema relasi tabel dari phpMyAdmin Designer:**
 
-![Screenshot edit](Screenshot/skema_database.png)
+<img src="Screenshot/skema_database.png" width="800" alt="Skema Database"/>
 
 ### Deskripsi Tabel
 

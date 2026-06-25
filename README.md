@@ -165,8 +165,8 @@ Password : admin123
 
 | | Link |
 |---|---|
-| 🌐 Demo Aplikasi | [Link Demo](http://localhost/frontend-spa) *(jalankan lokal)* |
-| 🎥 Video Presentasi YouTube | [[Klik di sini untuk menonton](https://youtube.com/LINK_VIDEO_DISINI)] |
+| 🌐 Demo Aplikasi | [Link Demo](https://youtu.be/I4yXaAzaBaI) |
+| 🎥 Video Presentasi YouTube | [[Klik di sini untuk menonton](https://youtu.be/Fp7dpCfCYqI)] |
 
 ---
 
